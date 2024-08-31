@@ -33,7 +33,7 @@ int relay1, relay2, relay3, relay4;
 #define WIFI_PASS "air64389"
 
 #define FIREBASE_BASE_URL "https://esp32c3-816d6-default-rtdb.asia-southeast1.firebasedatabase.app/IOT_Switches.json"
-#define AUTH_TOKEN "AIzaSyCEgACynowuk6kTrDRm09G3h6-9pP-nwq0"
+#define AUTH_TOKEN "A"
 
 // Root CA certificate (replace this with the correct root CA for your Firebase URL)
 const char *root_ca = \
